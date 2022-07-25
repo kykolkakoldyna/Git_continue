@@ -5,5 +5,6 @@ public class TC003 {
         // hello
         // new
         // again
+        // hi
     }
 }
